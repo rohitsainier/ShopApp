@@ -50,7 +50,7 @@ class _MyAppState extends State<MyApp> {
               updateIndex();
             },
             child: Text("Pick a Resturant"),
-            color: Colors.purple,
+            color: Colors.greenAccent,
             textColor: Colors.white,
           )
         ],
